@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173706488688",
+    "project_id": "final-e7bdd",
+    "storage_bucket": "final-e7bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173706488688:android:bdf18c1f88c3efb97d7db5",
+        "android_client_info": {
+          "package_name": "com.example.share_sell_swap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOpcgSuLtWBgP37i5PSVwReHRhVUabchI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
